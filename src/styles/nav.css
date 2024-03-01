@@ -1,12 +1,12 @@
 nav{
     width: 100%;
-    padding: 10px 30px;
+    padding: 10px 5px;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
 
-    border-bottom: 2px dashed black;
+    border-bottom: 2px dashed blue;
 }
 #logo{
     font-size: 30px;
@@ -21,7 +21,7 @@ nav{
     padding: 10px;
 
     border: none;
-    background-color: black;
+    background-color: blue;
     color: white;
     cursor: pointer;
 }
