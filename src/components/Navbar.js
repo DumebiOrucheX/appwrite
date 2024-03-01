@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   const styles={
     textDecoration: 'none',
-    color: 'black',
+    color: 'blue',
   }
   var styles2={
     textDecoration: 'none',
